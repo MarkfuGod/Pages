@@ -5,4 +5,6 @@ You should be seeing this down below:
 # U are now seeing this python code section
 ```
 
-$Complexity = O(n^3)$
+$$
+Complexity = O(n^3)
+$$
